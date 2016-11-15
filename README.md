@@ -3,7 +3,7 @@ Google Alerts Finder is a simple library for Android for generating a list of Go
 
 ## Gradle
 ```
-compile 'com.reardenapps:googlealertsfinder:1.1.0'
+compile 'com.reardenapps:googlealertsfinder:1.2.0'
 ```
 
 ## Usage
